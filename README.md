@@ -57,7 +57,7 @@ Many subroutines in this project follow the same numerical structure as the clas
 │   ├── Grain_C_0.43_matrix.rar      # Matrix orientation data of grain C after 43% cold rolling (corresponds to Fig. 6c)
 │   └── Intraband_volume_SB-C.rar    # Intraband EBSD data of SB-C (corresponds to Fig. 8c)  
 │
-└── README.md                      # This file
+└── README.md
 ```
 
 ## ▶️ How to Run
